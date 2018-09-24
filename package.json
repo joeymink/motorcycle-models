@@ -1,0 +1,14 @@
+{
+  "name": "motorcycle_models",
+  "version": "1.0.0",
+  "description": "Web service for querying motorcycle make/model data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joey Mink",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
